@@ -1,3 +1,11 @@
+body{
+  background-color:grey;
+}
+.container{
+  background-color:whitesmoke;
+  min-width:600px;
+  margin: 0 auto;
+}
 h1 {
   text-align: center;
   color: #333;
@@ -10,3 +18,4 @@ footer {
   text-align: center;
   margin-top: 20px;
 }
+
